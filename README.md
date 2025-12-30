@@ -1,13 +1,11 @@
 # Consultation System
 
 ## 📌 Overview
-
 Reusable template system for managing consultations between professors and students. Tracks consultation purposes, generates analytics reports, and supports institutional customization.
 
 ---
 
 ## ✨ Features
-
 - QR code login system (QR sent via email after signup)
 - Multi-role access (Students, Professors, Admin)
 - Excel import for student data
@@ -18,7 +16,6 @@ Reusable template system for managing consultations between professors and stude
 ---
 
 ## 🖼️ Screenshots
-
 <p align="center">
   <img src="screenshots/screenshot1.png" width="32%" />
   <img src="screenshots/screenshot2.png" width="32%" />
@@ -42,17 +39,4 @@ Reusable template system for managing consultations between professors and stude
 
 ---
 
-## 🚀 Installation
-
-1. **Setup Database**
-
-```bash
-# Ensure MariaDB is running via XAMPP
-# Create and configure the required database
-Run the Application
-
-bash
-# Navigate to release folder and run:
-plpfaculty/plpfaculty/bin/release/application.exe
-Note: A configured MariaDB database is required before running the application. Ensure XAMPP services are running.
-```
+> **Note:** This repository intentionally excludes setup instructions and sensitive configuration details due to confidentiality requirements.
