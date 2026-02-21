@@ -30,7 +30,7 @@ Reusable template system for managing consultations between professors and stude
   <br/>
   <img src="screenshots/screenshot7.png" width="32%" />
   <img src="screenshots/screenshot8.png" width="32%" />
-  <img src="screenshots/screenshot9.png" width="32%" />
+ 
 </p>
 
 ---
